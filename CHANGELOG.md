@@ -1,5 +1,21 @@
 # Changelog
 
+## [4.0.3](https://github.com/Tiamat-Tech/aurora/compare/v4.0.2...v4.0.3) (2026-08-05)
+
+
+### Bug Fixes
+
+* **calendar:** keep keyboard navigation alive after picking a date ([fd3823f](https://github.com/Tiamat-Tech/aurora/commit/fd3823f364b4faf98c39fc6c31ea754f1a43ac5d))
+* **calendar:** keep keyboard navigation alive after picking a date ([dcd8b15](https://github.com/Tiamat-Tech/aurora/commit/dcd8b15d5a83ce45c6127129f839d073bd76964b))
+* **signin:** remove the autofocus from the email field ([529dc72](https://github.com/Tiamat-Tech/aurora/commit/529dc724f67206ae71730fdc5ed1321cf83f7a20))
+
+
+### Documentation
+
+* add the readme and restore the license ([be577bb](https://github.com/Tiamat-Tech/aurora/commit/be577bb801458ae304d107b8f3d2cc0f39d60cd9))
+* show the dashboard in the readme ([9190ed8](https://github.com/Tiamat-Tech/aurora/commit/9190ed84c86a429e5ef3687440827af201ad0666))
+* show the dashboard in the readme ([27c410e](https://github.com/Tiamat-Tech/aurora/commit/27c410e52a3246277bcfeeb8a4bfb8865c691985))
+
 ## [4.0.2](https://github.com/askides/aurora/compare/v4.0.1...v4.0.2) (2026-08-05)
 
 
